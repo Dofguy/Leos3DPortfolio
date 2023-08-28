@@ -43,7 +43,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I've got experience in Javascript, Python, Java, C++, and SQL, and I love diving into frameworks like Node.js, React and Three.js. I take pride in being a quick learner and a breeze to collaborate with, making teamwork simple. I'm also bilingual too! I'm super excited to bring my tech passion and skills to your team and work some magic together. Let's chat about how I can elevate your projects to the next level!
+        I've got experience in Javascript, Python, Java, C++, and SQL, and I love diving into technologies like Node.js, React and Three.js. I take pride in being a quick learner and a breeze to collaborate with, making teamwork simple. I'm also bilingual too! I'm super excited to bring my tech passion and skills to your team and work some magic together. Let's chat about how I can elevate your projects to the next level!
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
