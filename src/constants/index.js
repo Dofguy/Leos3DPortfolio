@@ -109,15 +109,16 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
+      title: "Waiter",
       company_name: "Wedding House Patisserie",
       // icon: ,
       iconBg: "#383E56",
       date: "August 2019 - May 2020",
       points: [
-        "Developed and maintained web applications using React.js and other related technologies.",
-        "Implemented responsive design and ensured cross-browser compatibility.",
-        "Participated in code reviews and provided constructive feedback to other developers.",
+        "Demonstrated strong communication and customer service skills by efficiently taking orders, addressing customer requests, and ensuring a positive dining experience.",
+        "Developed a keen eye for detail while accurately recording and fulfilling customer orders.",
+        "Successfully managed a fast-paced work environment, juggling multiple tables, orders, and customer requests while ensuring prompt service.",
+        "Collaborated seamlessly with kitchen staff and fellow waitstaff to ensure smooth restaurant operations.",
       ],
     },
   ];
