@@ -113,18 +113,18 @@ import {
       company_name: "Wedding House Patisserie",
       // icon: ,
       iconBg: "#383E56",
-      date: "March 2018 - July 2020",
+      date: "August 2019 - May 2020",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and maintained web applications using React.js and other related technologies.",
+        "Implemented responsive design and ensured cross-browser compatibility.",
+        "Participated in code reviews and provided constructive feedback to other developers.",
       ],
     },
   ];
   
   const projects = [
     {
-      name: "Cake Order",
+      name: "Cake Order (In development)",
       description:
         "Web-based platform that allows users to search, design, and order cakes from various providers, for any occasion all in one space.",
       
